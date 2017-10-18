@@ -6,13 +6,13 @@ body {
 }
 
 a {
-  color: #2ecc71;
+  color: #004DFF;
 }
 
 a:focus,
 a:hover {
-  color: #f1c40f;
-  text-decoration: none;
+  color: #008080;
+  text-decoration: underline;
 }
 
 p {
@@ -52,7 +52,7 @@ li:before {
 
 blockquote {
   border-left: 5px solid #e7e9ec;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 em {
